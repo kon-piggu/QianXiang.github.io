@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qian Xiang"
+title                    : 
 title_separator          : "-"
 name                     : &name "Qian Xiang"
 description              : &description "profile"
