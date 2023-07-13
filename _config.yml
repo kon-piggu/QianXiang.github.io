@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qian"
+title                    : "Qian Xiang"
 title_separator          : "-"
 name                     : &name "Qian Xiang"
 description              : &description "profile"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qian Xiang"
-  avatar           : "profile.png"
+  avatar           : "Qian's profile.png"
   bio              : false
   location         : "Guangzhou, China"
   employer         : Guangdong Polytechnic Normal University
