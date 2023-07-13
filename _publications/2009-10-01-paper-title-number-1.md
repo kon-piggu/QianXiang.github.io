@@ -1,17 +1,15 @@
 ---
-title: "The Formation, Consolidation, and Transition of International
-Brokerage Networks: The Case of an International New Venture in
-an Emerging Market"
+title: "Organisational improvisation as a path to new opportunity identification for incumbent firms: an organisational learning view."
 collection: publications
-permalink: https://doi.org/10.1016/j.intman.2022.100995
+permalink: https://doi.org/10.1080/14479338.2020.1713001
 excerpt: 
-date: 2022-11-16
-venue: 'Journal of International Management'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1016/j.intman.2022.100995)'
-citation: 'Xiang, Q., Lin, D., & Wang, J. (2023). The Formation, Consolidation, and Transition of International Brokerage Networks: The Case of an International New Venture in an Emerging Market. Journal of International Management, 29(1), 100995.'
+date: 2020-01-22
+venue: 'Innovation: Organization & Management'
+paperurl: 'https://doi.org/10.1080/14479338.2020.1713001'
+citation: 'Xiang, Q., Zhang, J., & Liu, H. (2020). Organisational improvisation as a path to new opportunity identification for incumbent firms: An organisational learning view. Innovation, 22(4), 422-446.'
 ---
 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Xiang, Q., Lin, D., & Wang, J. (2023). The Formation, Consolidation, and Transition of International Brokerage Networks: The Case of an International New Venture in an Emerging Market. Journal of International Management, 29(1), 100995.
+Recommended citation: Xiang, Q., Zhang, J., & Liu, H. (2020). Organisational improvisation as a path to new opportunity identification for incumbent firms: An organisational learning view. Innovation, 22(4), 422-446.
