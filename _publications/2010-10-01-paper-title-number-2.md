@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "The Formation, Consolidation, and Transition of International
+Brokerage Networks: The Case of an International New Venture in
+an Emerging Market"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://doi.org/10.1016/j.intman.2022.100995
+excerpt: 
+date: 2022-11-16
+venue: 'Journal of International Management'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1016/j.intman.2022.100995)'
+citation: 'Xiang, Q., Lin, D., & Wang, J. (2023). The Formation, Consolidation, and Transition of International Brokerage Networks: The Case of an International New Venture in an Emerging Market. Journal of International Management, 29(1), 100995.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Xiang, Q., Lin, D., & Wang, J. (2023). The Formation, Consolidation, and Transition of International Brokerage Networks: The Case of an International New Venture in an Emerging Market. Journal of International Management, 29(1), 100995.
