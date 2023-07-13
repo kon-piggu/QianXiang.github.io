@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Guangdong Polytechnical Normal University, School of Finance and Economics"
-date: 2021
+date: 2014-01-01
 location: "Guangzhou, China"
 ---
 
