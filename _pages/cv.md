@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Commerce, School of Economics and Business Administration, Chongqing University, 2015
+* Ph.D in Strategic Management, Lingnan College, Sun Yat-sen Universit, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-now: Assistant Professor
+  * School of Finance and Economics, Guangdong Polytechnic Normal University
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Quantitative
+  * Good grasp of structural equation modeling (SEM), multilevel mixed modeling, factor analysis, matched sample method
+  * Familiar with Stata, Mplus and SPSS
   * Sub-skill 2.3
-* Skill 3
+* Qualitative
+  * Have experiences in conducting research with qualitative approaches: case studies, grounded theory, interviews, QCA and textual analysis
+  * Good grasp of coding techniques
+  * Familiar with MaxQDA, Nvivo11, fsQCA
 
 Publications
 ======
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
