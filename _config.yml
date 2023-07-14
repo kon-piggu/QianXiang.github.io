@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qian Xiang"
+  name             : 
   avatar           : "Qian profile.png"
   bio              : false
   location         : "Guangzhou, China"
@@ -99,17 +99,17 @@ author:
   github           : false
   google_plus      :
   keybase          :
-  instagram        : kon_piggu
+  instagram        : "https://www.instagram.com/kon_piggu/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/qianxiang/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
