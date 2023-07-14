@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate courses"
 collection: teaching
-type: "Undergraduate courses"
+type: 
 permalink: /teaching/2014-spring-teaching-1
 venue: "Guangdong Polytechnical Normal University, School of Finance and Economics"
-date: 2014-01-01
+date: 2021-04
 location: "Guangzhou, China"
 ---
+•	Cross-border Merger and Acquisitions [Bachelor Course, 2021 Fall] 
 
-This is a description of a teaching experience. You can use markdown like any other post.
+•	Corporate Governance [Bachelor Course, 2022 Spring]
 
 Cross-Border Merger & Acquisition
 ======
