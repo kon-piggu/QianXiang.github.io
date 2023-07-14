@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qian Xiang"
 title_separator          : "-"
-name                     : &name "Qian Xiang"
+name                     : &name 
 description              : &description "profile"
 url                      : https://kon-piggu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -233,9 +233,9 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
