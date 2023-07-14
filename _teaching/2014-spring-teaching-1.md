@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/2014-spring-teaching-1
 venue: "Guangdong Polytechnical Normal University, School of Finance and Economics"
-date: 2021-04
+date: 2021-04-05
 location: "Guangzhou, China"
 ---
 •	Cross-border Merger and Acquisitions [Bachelor Course, 2021 Fall] 
