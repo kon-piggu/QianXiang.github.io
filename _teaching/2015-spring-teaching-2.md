@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Corporate Governance"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "School of Finance and Economics, Guangdong Polytechnic Normal University"
+date: 2022-04-01
+location: "Guangzhou, China"
 ---
+•	Corporate Governance [Bachelor Course, 2022 Spring]
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Corporate Governance
 ======
+This course is a required one for sophomore students majoring in accounting. It includes 9 sessions, mainly about the basics of corporate firms, board of firms, corporate equity structure design, incentive mechanism for senior executive, mechanism of information disclosure. I also added introduction of relevant theories in this course, like transaction costs economy, the principle-agent theory and signaling theory. The course involves extensive discussion, presentation and debates. A final examination is included as the main assessment. 
 
-Heading 2
-======
-
-Heading 3
-======
