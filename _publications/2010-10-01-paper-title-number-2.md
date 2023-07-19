@@ -12,6 +12,6 @@ citation: 'Xiang, Q., Lin, D., & Wang, J. (2023). The Formation, Consolidation, 
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Organisational improvisation as a path to new opportunity identification for incumbent firms an organisational learning view.pdf)
 
 Recommended citation: Xiang, Q., Lin, D., & Wang, J. (2023). The Formation, Consolidation, and Transition of International Brokerage Networks: The Case of an International New Venture in an Emerging Market. Journal of International Management, 29(1), 100995.
