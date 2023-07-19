@@ -10,6 +10,6 @@ citation: 'Xiang, Q., Zhang, J., & Liu, H. (2020). Organisational improvisation 
 ---
 
 
-[Download paper here](http://kon-piggu.github.io/files/Organisational_improvisation_as_a_path_to_new_opportunity_identification.pdf.pdf)
+[Download paper here](http://kon-piggu.github.io/files/Organisational_improvisation_as_a_path_to_new_opportunity_identification.pdf)
 
 Recommended citation: Xiang, Q., Zhang, J., & Liu, H. (2020). Organisational improvisation as a path to new opportunity identification for incumbent firms: An organisational learning view. Innovation, 22(4), 422-446.
