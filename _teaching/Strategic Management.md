@@ -2,7 +2,7 @@
 title: "Strategic Management"
 collection: teaching
 type: Undergraduate course
-permalink: /teaching/strategic management
+permalink: /teaching/Strategic Management
 venue: "School of Finance and Economics, Guangdong Polytechnic Normal University"
 date: 2021-04-05
 location: "Guangzhou, China"
