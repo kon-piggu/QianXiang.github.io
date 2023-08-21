@@ -10,7 +10,7 @@ main:
     url: /cv/
 
   - title: "Service"
-    url: /service/
+    url: /portfolio/
     
   - title: "Conference Presentations"
     url: /talks/    
