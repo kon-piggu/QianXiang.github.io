@@ -2,7 +2,7 @@
 title: "Corporate Governance"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/Corporate Governance
 venue: "School of Finance and Economics, Guangdong Polytechnic Normal University"
 date: 2022-04-01
 location: "Guangzhou, China"
