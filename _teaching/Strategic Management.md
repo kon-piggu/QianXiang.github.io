@@ -4,7 +4,7 @@ collection: teaching
 type: Undergraduate course
 permalink: /teaching/Strategic Management
 venue: "School of Finance and Economics, Guangdong Polytechnic Normal University"
-date: 2023-09
+date: 2023-09-01
 location: "Guangzhou, China"
 ---
 •	Strategic Management [Bachelor Course, 2023 Fall]
