@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/a54484fd-7736-4507-8cef-2ac021113c56)---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -23,6 +23,11 @@ EDUCATION
 
 School of Economics and Business Administration, Chongqing University 
 Bachelor of Management
+
+2012.3-2012.6
+
+College of Management, National Chung Hsing University
+Exchange student
 
 2015.8-2020.12
 
